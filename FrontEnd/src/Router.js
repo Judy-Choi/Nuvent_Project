@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Main from './pages/Main';
-import Baemin from './pages/Baemin';
-import Coupangeats from './pages/Coupangeats';
-import Nplace from './pages/Npalce';
-import Yogiyo from './pages/Yogiyo';
+import Main from './pages/Main/Main';
+import Baemin from './pages/Baemin/Baemin';
+import Coupangeats from './pages/Coupangeats/Coupangeats';
+import Nplace from './pages/Nplace/Npalce';
+import Yogiyo from './pages/Yogiyo/Yogiyo';
 import Nav from './components/Nav';
 
 const Router = () => {
