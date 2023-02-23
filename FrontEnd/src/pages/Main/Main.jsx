@@ -1,9 +1,8 @@
 import React from 'react';
+import RatingBar from './RatingBar';
 
 const Main = () => {
-  return (
-    <button className="bg-purple hover:bg-lightpurple">Save changes</button>
-  );
+  return <RatingBar />;
 };
 
 export default Main;
