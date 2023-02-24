@@ -5,7 +5,7 @@ const ReviewPie = () => {
   const [pie, setPie] = useState([]);
 
   useEffect(() => {
-    fetch('/data/reviewpie.json')
+    fetch('/data/emotionpie.json')
       .then(res => res.json())
       .then(data => {
         setPie(data);
@@ -20,11 +20,11 @@ const ReviewPie = () => {
     <div className="w-[20rem] h-[35rem] mt-[-5rem]">
       <ResponsivePie
         data={pie}
-        margin={{ top: 120, right: 20, bottom: 240, left: 20 }}
-        innerRadius={0.65}
-        padAngle={2}
+        margin={{ top: 150, right: 20, bottom: 240, left: 20 }}
+        innerRadius={0}
+        padAngle={0}
         activeOuterRadiusOffset={8}
-        colors={{ scheme: 'pastel1' }}
+        colors={{ scheme: 'pastel2' }}
         borderColor={{
           from: 'color',
           modifiers: [['darker', 0.2]],
@@ -46,7 +46,7 @@ const ReviewPie = () => {
             direction: 'column',
             justify: false,
             translateX: -50,
-            translateY: 250,
+            translateY: 150,
             itemsSpacing: 0,
             itemWidth: 125,
             itemHeight: 40,

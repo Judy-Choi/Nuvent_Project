@@ -1,6 +1,6 @@
 [
   {
-    "country": "1일",
+    "platform": "1일",
     "baemin": 28,
     "baemin Color": "hsl(280, 70%, 50%)",
     "coupangeats": 25,
@@ -11,7 +11,7 @@
     "yogiyo Color": "hsl(287, 70%, 50%)"
   },
   {
-    "country": "2일",
+    "platform": "2일",
     "baemin": 96,
     "baemin Color": "hsl(275, 70%, 50%)",
     "coupangeats": 183,
@@ -22,7 +22,7 @@
     "yogiyo Color": "hsl(284, 70%, 50%)"
   },
   {
-    "country": "3일",
+    "platform": "3일",
     "baemin": 196,
     "baemin Color": "hsl(360, 70%, 50%)",
     "coupangeats": 69,
@@ -33,7 +33,7 @@
     "yogiyo Color": "hsl(281, 70%, 50%)"
   },
   {
-    "country": "4일",
+    "platform": "4일",
     "baemin": 4,
     "baemin Color": "hsl(359, 70%, 50%)",
     "coupangeats": 11,
@@ -44,7 +44,7 @@
     "yogiyo Color": "hsl(28, 70%, 50%)"
   },
   {
-    "country": "5일",
+    "platform": "5일",
     "baemin": 73,
     "baemin Color": "hsl(156, 70%, 50%)",
     "coupangeats": 2,
@@ -55,7 +55,7 @@
     "yogiyo Color": "hsl(28, 70%, 50%)"
   },
   {
-    "country": "6일",
+    "platform": "6일",
     "baemin": 113,
     "baemin Color": "hsl(341, 70%, 50%)",
     "coupangeats": 182,
@@ -66,7 +66,7 @@
     "yogiyo Color": "hsl(282, 70%, 50%)"
   },
   {
-    "country": "7일",
+    "platform": "7일",
     "baemin": 129,
     "baemin Color": "hsl(24, 70%, 50%)",
     "coupangeats": 3,

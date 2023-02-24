@@ -1,4 +1,7 @@
 import React from 'react';
+import EmotionBar from './EmotionBar';
+import EmotionPie from './EmotionPie';
+import RatingLine from './RatingLine';
 import RatingRadar from './RatingRadar';
 import ReviewBar from './ReviewBar';
 import ReviewPie from './ReviewPie';
@@ -11,12 +14,12 @@ const Main = () => {
         <ReviewPie />
       </div>
       <div className="flex justify-center items-center bg-slate-50 mx-10 my-10 pb-5 rounded-xl z-0">
-        <ReviewBar />
+        <RatingLine />
         <RatingRadar />
       </div>
       <div className="flex justify-center items-center bg-slate-50 mx-10 my-10 pb-5 rounded-xl z-0">
-        <ReviewBar />
-        <ReviewPie />
+        <EmotionBar />
+        <EmotionPie />
       </div>
     </div>
   );

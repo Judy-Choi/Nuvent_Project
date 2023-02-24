@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { ResponsiveBar } from '@nivo/bar';
 
-const ReviewBar = () => {
+const EmotionBar = () => {
   const [bar, setBar] = useState([]);
 
   useEffect(() => {
-    fetch('/data/reviewbar.json')
+    fetch('/data/emotionbar.json')
       .then(res => res.json())
       .then(data => {
         setBar(data);
@@ -20,20 +20,21 @@ const ReviewBar = () => {
     <div className="w-[80rem] h-[30rem] ml-5 z-0">
       <ResponsiveBar
         data={bar}
-        keys={['baemin', 'coupangeats', 'nplace', 'yogiyo']}
+        keys={['pos', 'neg']}
         indexBy="platform"
         margin={{ top: 40, right: 30, bottom: 70, left: 50 }}
         padding={0.6}
+        groupMode="grouped"
         valueScale={{ type: 'linear' }}
         indexScale={{ type: 'band', round: true }}
-        colors={{ scheme: 'pastel1' }}
+        colors={{ scheme: 'pastel2' }}
         axisTop={null}
         axisRight={null}
         axisBottom={{
           tickSize: 0,
           tickPadding: 5,
           tickRotation: 0,
-          legend: 'Day',
+          legend: 'Emotion',
           legendPosition: 'middle',
           legendOffset: 32,
         }}
@@ -59,7 +60,7 @@ const ReviewBar = () => {
             anchor: 'bottom',
             direction: 'row',
             justify: false,
-            translateX: 9,
+            translateX: 30,
             translateY: 68,
             itemsSpacing: 2,
             itemWidth: 100,
@@ -97,4 +98,4 @@ const ReviewBar = () => {
   );
 };
 
-export default ReviewBar;
+export default EmotionBar;

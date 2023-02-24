@@ -1,24 +1,10 @@
 [
   {
-    "rating": "one",
-    "baemin": 11,
-    "coupangeats": 9,
-    "nplace": 2,
-    "yogiyo": 10
-  },
-  {
-    "rating": "two",
-    "baemin": 21,
-    "coupangeats": 24,
-    "nplace": 28,
-    "yogiyo": 39
-  },
-  {
-    "rating": "three",
-    "baemin": 63,
-    "coupangeats": 52,
-    "nplace": 57,
-    "yogiyo": 68
+    "rating": "five",
+    "baemin": 150,
+    "coupangeats": 140,
+    "nplace": 148,
+    "yogiyo": 158
   },
   {
     "rating": "four",
@@ -28,10 +14,24 @@
     "yogiyo": 128
   },
   {
-    "rating": "five",
-    "baemin": 150,
-    "coupangeats": 140,
-    "nplace": 148,
-    "yogiyo": 158
+    "rating": "three",
+    "baemin": 63,
+    "coupangeats": 52,
+    "nplace": 57,
+    "yogiyo": 68
+  },
+  {
+    "rating": "two",
+    "baemin": 21,
+    "coupangeats": 24,
+    "nplace": 28,
+    "yogiyo": 39
+  },
+  {
+    "rating": "one",
+    "baemin": 11,
+    "coupangeats": 9,
+    "nplace": 2,
+    "yogiyo": 10
   }
 ]
