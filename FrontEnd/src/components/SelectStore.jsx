@@ -2,7 +2,7 @@ import React from 'react';
 
 const SelectStore = () => {
   return (
-    <div>
+    <div className="z-10">
       <button
         id="dropdownDefaultButton"
         data-dropdown-toggle="dropdown"
