@@ -1,49 +1,52 @@
 import React, { useState, useEffect } from 'react';
 import { ResponsiveBar } from '@nivo/bar';
-const RatingBar = () => {
-  const [rate, setRate] = useState([]);
+
+const ReviewBar = () => {
+  const [bar, setBar] = useState([]);
 
   useEffect(() => {
-    fetch('/data/rating.json')
+    fetch('/data/reviewbar.json')
       .then(res => res.json())
       .then(data => {
-        setRate(data);
+        setBar(data);
       });
   }, []);
 
-  if (rate.length === 0) {
+  if (bar.length === 0) {
     return null;
   }
 
   return (
-    rate.length > 0 && (
+    <div className="w-[80rem] h-[30rem] ml-5 z-0">
       <ResponsiveBar
-        data={rate}
-        keys={['hot dog', 'burger', 'sandwich', 'kebab', 'fries', 'donut']}
+        data={bar}
+        keys={['baemin', 'coupangeats', 'nplace', 'yogiyo']}
         indexBy="country"
-        margin={{ top: 50, right: 130, bottom: 50, left: 60 }}
-        padding={0.4}
+        margin={{ top: 40, right: 30, bottom: 70, left: 50 }}
+        padding={0.6}
         valueScale={{ type: 'linear' }}
         indexScale={{ type: 'band', round: true }}
         colors={{ scheme: 'pastel1' }}
         axisTop={null}
         axisRight={null}
         axisBottom={{
-          tickSize: 5,
+          tickSize: 0,
           tickPadding: 5,
           tickRotation: 0,
-          legend: 'country',
+          legend: 'Day',
           legendPosition: 'middle',
           legendOffset: 32,
         }}
         axisLeft={{
-          tickSize: 5,
+          tickSize: 0,
           tickPadding: 5,
           tickRotation: 0,
-          legend: 'food',
+          legend: 'Review Count',
           legendPosition: 'middle',
           legendOffset: -40,
         }}
+        enableGridX={false}
+        enableLabel={false}
         labelSkipWidth={12}
         labelSkipHeight={12}
         labelTextColor={{
@@ -53,11 +56,11 @@ const RatingBar = () => {
         legends={[
           {
             dataFrom: 'keys',
-            anchor: 'bottom-right',
-            direction: 'column',
+            anchor: 'bottom',
+            direction: 'row',
             justify: false,
-            translateX: 120,
-            translateY: 0,
+            translateX: 9,
+            translateY: 68,
             itemsSpacing: 2,
             itemWidth: 100,
             itemHeight: 20,
@@ -90,8 +93,8 @@ const RatingBar = () => {
           );
         }}
       />
-    )
+    </div>
   );
 };
 
-export default RatingBar;
+export default ReviewBar;
