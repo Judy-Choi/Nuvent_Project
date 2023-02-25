@@ -20,7 +20,7 @@ const EmotionBar = () => {
     <div className="w-[80rem] h-[30rem] ml-5 z-0">
       <ResponsiveBar
         data={bar}
-        keys={['pos', 'neg']}
+        keys={['positive', 'negative']}
         indexBy="platform"
         margin={{ top: 40, right: 30, bottom: 70, left: 50 }}
         padding={0.6}

@@ -65,7 +65,7 @@ const RatingLine = () => {
             justify: false,
             translateX: 25,
             translateY: 67,
-            itemsSpacing: 0,
+            itemsSpacing: 10,
             itemDirection: 'left-to-right',
             itemWidth: 80,
             itemHeight: 20,
