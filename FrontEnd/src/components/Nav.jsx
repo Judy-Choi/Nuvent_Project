@@ -1,5 +1,6 @@
 import React from 'react';
 import 'flowbite';
+import SelectDate from './SelectDate';
 import SelectStore from './SelectStore';
 const Nav = () => {
   return (
@@ -12,6 +13,7 @@ const Nav = () => {
         />
       </a>
       <SelectStore />
+      <SelectDate />
     </div>
   );
 };
