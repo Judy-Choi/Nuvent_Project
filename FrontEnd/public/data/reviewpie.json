@@ -1,0 +1,26 @@
+[
+  {
+    "id": "baemin",
+    "label": "baemin",
+    "value": 128,
+    "color": "#FAB4AE"
+  },
+  {
+    "id": "coupangeats",
+    "label": "coupangeats",
+    "value": 550,
+    "color": "hsl(298, 70%, 50%)"
+  },
+  {
+    "id": "nplace",
+    "label": "nplace",
+    "value": 513,
+    "color": "hsl(247, 70%, 50%)"
+  },
+  {
+    "id": "yogiyo",
+    "label": "yogiyo",
+    "value": 333,
+    "color": "hsl(287, 70%, 50%)"
+  }
+]

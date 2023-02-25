@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pos",
+    "label": "pos",
+    "value": 714,
+    "color": "#FAB4AE"
+  },
+  {
+    "id": "neg",
+    "label": "neg",
+    "value": 68,
+    "color": "hsl(298, 70%, 50%)"
+  }
+]

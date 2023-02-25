@@ -1,0 +1,79 @@
+[
+  {
+    "platform": "1일",
+    "baemin": 28,
+    "baemin Color": "hsl(280, 70%, 50%)",
+    "coupangeats": 25,
+    "coupangeats Color": "hsl(298, 70%, 50%)",
+    "nplace": 25,
+    "nplace Color": "hsl(247, 70%, 50%)",
+    "yogiyo": 196,
+    "yogiyo Color": "hsl(287, 70%, 50%)"
+  },
+  {
+    "platform": "2일",
+    "baemin": 96,
+    "baemin Color": "hsl(275, 70%, 50%)",
+    "coupangeats": 183,
+    "coupangeats Color": "hsl(300, 70%, 50%)",
+    "nplace": 15,
+    "nplace Color": "hsl(304, 70%, 50%)",
+    "yogiyo": 5,
+    "yogiyo Color": "hsl(284, 70%, 50%)"
+  },
+  {
+    "platform": "3일",
+    "baemin": 196,
+    "baemin Color": "hsl(360, 70%, 50%)",
+    "coupangeats": 69,
+    "coupangeats Color": "hsl(348, 70%, 50%)",
+    "nplace": 114,
+    "nplace Color": "hsl(331, 70%, 50%)",
+    "yogiyo": 178,
+    "yogiyo Color": "hsl(281, 70%, 50%)"
+  },
+  {
+    "platform": "4일",
+    "baemin": 4,
+    "baemin Color": "hsl(359, 70%, 50%)",
+    "coupangeats": 11,
+    "coupangeats Color": "hsl(284, 70%, 50%)",
+    "nplace": 19,
+    "nplace Color": "hsl(16, 70%, 50%)",
+    "yogiyo": 168,
+    "yogiyo Color": "hsl(28, 70%, 50%)"
+  },
+  {
+    "platform": "5일",
+    "baemin": 73,
+    "baemin Color": "hsl(156, 70%, 50%)",
+    "coupangeats": 2,
+    "coupangeats Color": "hsl(299, 70%, 50%)",
+    "nplace": 142,
+    "nplace Color": "hsl(85, 70%, 50%)",
+    "yogiyo": 3,
+    "yogiyo Color": "hsl(28, 70%, 50%)"
+  },
+  {
+    "platform": "6일",
+    "baemin": 113,
+    "baemin Color": "hsl(341, 70%, 50%)",
+    "coupangeats": 182,
+    "coupangeats Color": "hsl(243, 70%, 50%)",
+    "nplace": 162,
+    "nplace Color": "hsl(312, 70%, 50%)",
+    "yogiyo": 120,
+    "yogiyo Color": "hsl(282, 70%, 50%)"
+  },
+  {
+    "platform": "7일",
+    "baemin": 129,
+    "baemin Color": "hsl(24, 70%, 50%)",
+    "coupangeats": 3,
+    "coupangeats Color": "hsl(190, 70%, 50%)",
+    "nplace": 173,
+    "nplace Color": "hsl(248, 70%, 50%)",
+    "yogiyo": 106,
+    "yogiyo Color": "hsl(288, 70%, 50%)"
+  }
+]
