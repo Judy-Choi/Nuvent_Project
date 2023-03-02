@@ -35,8 +35,7 @@ def get_db():
 @app.get("/")
 async def get_reviews(store_id: int = 0, start: int = 20221201, end: int = 20230101, db: Session = Depends(get_db)):
     products = crud.get_reviews(db, store_id=store_id, start=start, end=end)
-    string = "server OK"
-    return string
+    return products
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
