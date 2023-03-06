@@ -1,6 +1,14 @@
 import React from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import { setStore } from '../modules/reviewStore';
 
 const SelectStore = () => {
+  const store = useSelector(state => state.reviewStore.store);
+  const dispatch = useDispatch();
+
+  const selectStore = newStore => {
+    dispatch(setStore(newStore));
+  };
   return (
     <div className="z-10">
       <button
@@ -9,7 +17,7 @@ const SelectStore = () => {
         className="text-white bg-purple hover:bg-lightpurple font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center dark:bg-purple dark:hover:bg-lightpurple"
         type="button"
       >
-        매장 선택
+        {store || '매장 선택'}
         <svg
           className="w-4 h-4 ml-2"
           aria-hidden="true"
@@ -34,38 +42,18 @@ const SelectStore = () => {
           className="py-2 text-center text-sm text-purple dark:text-gray-200"
           aria-labelledby="dropdownDefaultButton"
         >
-          <li>
-            <a
-              href="#"
-              className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-lightpurple dark:hover:text-white"
-            >
-              삼성점
-            </a>
-          </li>
-          <li>
-            <a
-              href="#"
-              className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-lightpurple dark:hover:text-white"
-            >
-              선릉점
-            </a>
-          </li>
-          <li>
-            <a
-              href="#"
-              className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-lightpurple dark:hover:text-white"
-            >
-              역삼점
-            </a>
-          </li>
-          <li>
-            <a
-              href="#"
-              className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-lightpurple dark:hover:text-white"
-            >
-              강남점
-            </a>
-          </li>
+          {['삼성점', '선릉점', '역삼점', '강남점'].map(store => {
+            return (
+              <li key={store}>
+                <div
+                  onClick={() => selectStore(store)}
+                  className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-lightpurple dark:hover:text-white"
+                >
+                  {store}
+                </div>
+              </li>
+            );
+          })}
         </ul>
       </div>
     </div>

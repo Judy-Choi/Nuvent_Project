@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ResponsivePie } from '@nivo/pie';
 
-const ReviewPie = () => {
+const EmotionPie = () => {
   const [pie, setPie] = useState([]);
 
   useEffect(() => {
@@ -70,4 +70,4 @@ const ReviewPie = () => {
   );
 };
 
-export default ReviewPie;
+export default EmotionPie;

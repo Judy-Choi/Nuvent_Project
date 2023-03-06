@@ -67,11 +67,11 @@ const RatingLine = () => {
             translateY: 67,
             itemsSpacing: 10,
             itemDirection: 'left-to-right',
-            itemWidth: 80,
+            itemWidth: 100,
             itemHeight: 20,
-            itemOpacity: 0.75,
-            symbolSize: 12,
-            symbolShape: 'circle',
+            itemOpacity: 0.85,
+            symbolSize: 20,
+            symbolShape: 'square',
             symbolBorderColor: 'rgba(0, 0, 0, .5)',
             effects: [
               {
