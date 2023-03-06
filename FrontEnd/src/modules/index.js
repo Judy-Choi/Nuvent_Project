@@ -1,5 +1,5 @@
 import { configureStore, combineReducers } from '@reduxjs/toolkit';
-import reviewStore from './store';
+import reviewStore from './reviewStore';
 
 const rootReducer = combineReducers({
   reviewStore,
