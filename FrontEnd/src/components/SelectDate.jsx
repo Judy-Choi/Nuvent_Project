@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
 import 'react-datepicker/dist/react-datepicker.min.css';
-import 'react-datepicker/dist/react-datepicker.min.js';
 import { useDispatch } from 'react-redux';
 import { setEndDate, setStartDate } from '../modules/reviewStore';
 
