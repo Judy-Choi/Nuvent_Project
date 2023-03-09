@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { ResponsiveBar } from '@nivo/bar';
 
 const EmotionBar = ({ data }) => {
