@@ -1,0 +1,77 @@
+[
+  {
+    "id": "baemin",
+    "data": [
+      {
+        "star": "1",
+        "count": 11
+      },
+      {
+        "star": "2",
+        "count": 21
+      },
+      {
+        "star": "3",
+        "count": 63
+      },
+      {
+        "star": "4",
+        "count": 91
+      },
+      {
+        "star": "5",
+        "count": 150
+      }
+    ]
+  },
+  {
+    "id": "coupang",
+    "data": [
+      {
+        "star": "1",
+        "count": 9
+      },
+      {
+        "star": "2",
+        "count": 24
+      },
+      {
+        "star": "3",
+        "count": 52
+      },
+      {
+        "star": "4",
+        "count": 106
+      },
+      {
+        "star": "5",
+        "count": 140
+      }
+    ]
+  },
+  {
+    "id": "yogiyo",
+    "data": [
+      {
+        "star": "1",
+        "count": 10
+      },
+      {
+        "star": "2",
+        "count": 39
+      },
+      {
+        "star": "3",
+        "count": 68
+      },
+      {
+        "star": "4",
+        "count": 128
+      },
+      {
+        "star": "5",
+        "count": 158
+      }
+    ]
+  }
+]

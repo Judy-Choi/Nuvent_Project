@@ -1,0 +1,22 @@
+[
+  {
+    "platform": "baemin",
+    "positive": 218,
+    "negative": 25
+  },
+  {
+    "platform": "coupangeats",
+    "positive": 186,
+    "negative": 19
+  },
+  {
+    "platform": "nplace",
+    "positive": 169,
+    "negative": 11
+  },
+  {
+    "platform": "yogiyo",
+    "positive": 141,
+    "negative": 13
+  }
+]

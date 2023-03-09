@@ -1,0 +1,51 @@
+[
+  {
+    "platform": "1일",
+    "baemin": 28,
+    "coupangeats": 25,
+    "nplace": 25,
+    "yogiyo": 196
+  },
+  {
+    "platform": "2일",
+    "baemin": 96,
+    "coupangeats": 183,
+    "nplace": 15,
+    "yogiyo": 5
+  },
+  {
+    "platform": "3일",
+    "baemin": 196,
+    "coupangeats": 69,
+    "nplace": 114,
+    "yogiyo": 178
+  },
+  {
+    "platform": "4일",
+    "baemin": 4,
+    "coupangeats": 11,
+    "nplace": 19,
+    "yogiyo": 168
+  },
+  {
+    "platform": "5일",
+    "baemin": 73,
+    "coupangeats": 2,
+    "nplace": 142,
+    "yogiyo": 3
+  },
+  {
+    "platform": "6일",
+    "baemin": 113,
+    "coupangeats": 182,
+    "nplace": 162,
+    "yogiyo": 120
+  },
+  {
+    "platform": "7일",
+    "baemin": 129,
+    "coupangeats": 3,
+    "nplace": 173,
+    "yogiyo": 106
+  }
+]
