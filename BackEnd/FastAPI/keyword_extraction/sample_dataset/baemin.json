@@ -1,0 +1,1153 @@
+[
+    {
+        "id": 2022120100327184,
+        "menus": [
+            {
+                "id": 2022120100564237,
+                "name": "미스터에그 세트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022120100564238,
+                "name": "치즈 불고기 길거리 토스트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022120100564239,
+                "name": "아메리칸 햄 치즈 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022120100564240,
+                "name": "아메리칸 햄 치즈 세트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022120100124271,
+                "contents": "tiffa님, 에그드랍 강남본점입니다. 소중한 리뷰 별5개 너무너무 감사합니다. 항상 고객님의 소리를 듣고 더 좋은 모습 보여드릴 수 있도록 전 인원 노력하고 있습니다!  다음에도 요청사항 주시면 준비해서 보내드리겠습니다!! 감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "2개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "회사야근하면서 주문했는데 빠른배달과 요청대로 개별로 포장해줘서 넘 좋았어요\n추운데 따뜻하게 와서 맛있었어요",
+        "memberNo": 160623003392,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "tiffa",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022112200163702,
+        "menus": [
+            {
+                "id": 2022112200296078,
+                "name": "햄 앤 치즈 프렌치토스트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [
+            {
+                "id": 2022112200121840,
+                "imageUrl": "https://bmreview.cdn.baemin.com/bmreview-qh2e/i/2022/11/22/01gjf6g3he5cwxq3x9tkjbkzw2.jpg",
+                "sequence": 1,
+                "createdAt": "2022-11-22T17:15:30.403",
+                "modifiedAt": "2022-11-22T17:15:30.403",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY"
+            }
+        ],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022112200161506,
+                "contents": "봄봄님, 에그드랍 강남본점입니다. 소중한 별5개 너무너무 감사합니다.  감사합니다! 항상 주문포장으로 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다. 항상 좋은 재료, 빠른 조리로 고객님께 다가가겠습니다. 감사합니다!\n\n",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "2개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "햄앤치즈 프렌치토스트는 처음 먹어봤는데 이것도 맛있어요 에이드도 감사합니다",
+        "memberNo": 220730323302,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "봄봄",
+        "deliveryReviews": null,
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022112400110916,
+        "menus": [
+            {
+                "id": 2022112400195876,
+                "name": "미스터에그 세트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022112400094447,
+                "contents": "어류님, 에그드랍 강남본점입니다. 소중한 별 5개 리뷰 너무너무 감사합니다! 고객님께 맛있게 제공하기 위해 항상 빠른 조리, 빠른 배달로 고객님께 다가가고 있습니다. 다음에는 리뷰에이드와 함께 에그드랍을 찾아주세요! 감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "2개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "해쉬브라운이 다른 가게처럼 작고 그런게 아니라 일반적인 큰 사이즈가 옵니다\n샌드위치는 바삭하게 잘 왔고 바닐라 라떼는 너무 달지 않아 먹기 편했습니다",
+        "memberNo": 210505332811,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "어류",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022120700198116,
+        "menus": [
+            {
+                "id": 2022120700348606,
+                "name": "아보홀릭 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022120700069540,
+                "contents": "heygina님, 에그드랍 강남본점입니다. 소중한 리뷰 별5개 너무너무 감사합니다. 항상 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다. 빠른 조리, 빠른 배달을 원칙으로 고객님께 신선하고 더 맛있는 에그드랍을 제공드리겠습니다. 다음에는 리뷰에이드와 함께 에그드랍을 찾아주세요 ! 감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "2개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "항상 잘먹고 있습니다?",
+        "memberNo": 200416000326,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "heygina",
+        "deliveryReviews": null,
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022111900149421,
+        "menus": [
+            {
+                "id": 2022111900263280,
+                "name": "갈릭 베이컨 치즈 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022111900263281,
+                "name": "아메리카노",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022111900067007,
+                "contents": "왕참치님, 에그드랍 강남본점입니다. 소중한 리뷰 별5개 너무너무 감사합니다. 항상 고객님의 소리를 듣고 더 좋은 모습 보여드릴 수 있도록 전 인원 노력하고 있습니다! 빠른 조리, 빠른 배달을 원칙으로 고객님께 더 맛있는 에그드랍을 제공드리겠습니다. 감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "2개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "항상 잘 먹고있슴다!! 서비스도 감사해요!",
+        "memberNo": 180116007457,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "왕참치",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2023011600173959,
+        "menus": [
+            {
+                "id": 2023011600316054,
+                "name": "미스터 에그 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2023011600141175,
+                "contents": "kyky님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "지난 달",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "항상 맛있게 먹어요-! 5분 만에 완성돼서 바로 픽업 받아서 더 좋았습니다 감사합니다:)",
+        "memberNo": 190609015367,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "지난 달",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "kyky",
+        "deliveryReviews": null,
+        "menuDisplayType": "ALL",
+        "writableComment": true,
+        "writableCommentType": "NONE"
+    },
+    {
+        "id": 2022121100451928,
+        "menus": [
+            {
+                "id": 2022121100792021,
+                "name": "베이컨 더블 치즈 세트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "NONE",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [
+            {
+                "id": 2022121100341799,
+                "imageUrl": "https://bmreview.cdn.baemin.com/bmreview-qh2e/i/2022/12/11/01gm0fkayy9ryvj63tgc5mvhk7.jpg",
+                "sequence": 1,
+                "createdAt": "2022-12-11T20:37:20.719112",
+                "modifiedAt": "2022-12-11T20:37:20.719112",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY"
+            }
+        ],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022121100184327,
+                "contents": "배또먹님, 안녕하세요 에그드랍 강남본점입니다! 에그드랍 강남본점을 다시 한번 찾아주셔서 너무너무 감사드려요! 고객님께 만족을 드리기위해 빠른 조리, 빠른 배달, 신선한 재료로 전 인원 최선을 다하고 있습니다! \n다음에도 꼭꼭 에그드랍 강남본점을 찾아주세요! 기대에 보답하겠습니다!\n감사합니다!",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "1개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "한입 베어먹고서 맞다 리뷰!하고 찰칵\n3가지 추가했더니 상당히 몸집이 커짐\n빠르게 순삭♡",
+        "memberNo": 160817000561,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "1개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "배또먹",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022122900119609,
+        "menus": [],
+        "coupon": null,
+        "images": [
+            {
+                "id": 2022122900084936,
+                "imageUrl": "https://bmreview.cdn.baemin.com/bmreview-qh2e/i/2022/12/29/01gne3fp778rcy18nym1spsa9t.jpg",
+                "sequence": 1,
+                "createdAt": "2022-12-29T13:50:42.19092",
+                "modifiedAt": "2022-12-29T13:50:42.19092",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY"
+            }
+        ],
+        "rating": 4,
+        "comments": [
+            {
+                "id": 2022122900010681,
+                "contents": "wl6199님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별4개 정말 감사합니다.\n추운날에도 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다.\n다음에는 별5개를 받을 수 있도록 더욱 노력하는 에그드랍 강남본점이 되겠습니다.\n감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "1개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "포장 예약했는데 시간 맞춰서 맛있게 잘 준비해주셨습니다?",
+        "memberNo": 220511323233,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "1개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "wl6199",
+        "deliveryReviews": null,
+        "menuDisplayType": "ONLY_ME",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022111100084445,
+        "menus": [
+            {
+                "id": 2022111100147329,
+                "name": "갈릭 베이컨 치즈 세트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [
+            {
+                "id": 2022111100063646,
+                "imageUrl": "https://bmreview.cdn.baemin.com/bmreview-qh2e/i/2022/11/11/01ghjc9eqn1p8zv45f8p9axa5w.jpg",
+                "sequence": 1,
+                "createdAt": "2022-11-11T12:38:45.469",
+                "modifiedAt": "2022-11-11T12:38:45.469",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY"
+            }
+        ],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022111100008142,
+                "contents": "책읽는나무젓가락님, 에그드랍 강남본점입니다. 항상 에그드랍을 이용해주셔서 너무너무 감사합니다 ! 고객님께서 맛있고 따뜻하게  또 처음 만든 그대로를 드실 수 있도록 빠른조리, 빠른배송을 원칙으로 노력하고 있습니다. 다음에도 리뷰에이드와 함께 에그드랍을 찾아주세요! 감사합니다.!",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "2개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "토스트는 항상 맛있고 포장도 깔끔해서 좋았습니다~",
+        "memberNo": 160809001110,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "Daniel",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022122200134627,
+        "menus": [
+            {
+                "id": 2022122200246104,
+                "name": "햄 앤 치즈 길거리 토스트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022122200246105,
+                "name": "갈릭 베이컨 치즈 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022122200246106,
+                "name": "닥터페퍼",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022122200246107,
+                "name": "반했드랍 반숙란 (2개입)",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022122200118400,
+                "contents": "비니님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n맛있게 드셨다니 저희도 너무너무 기쁩니다!\n앞으로도 빠른 조리, 빠른 배달을 원칙으로 고객님께 신선하고 더 맛있는 제품을 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에도 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.\n\n",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "1개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "토스트 정말 맛있어요!! 강추합니다:)",
+        "memberNo": 210621321581,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "1개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "비니",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022121000057058,
+        "menus": [
+            {
+                "id": 2022121000085962,
+                "name": "콘 치즈 해쉬브라운",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022121000085963,
+                "name": "햄 앤 치즈 프렌치토스트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [
+            {
+                "id": 2022121000045392,
+                "imageUrl": "https://bmreview.cdn.baemin.com/bmreview-qh2e/i/2022/12/10/01gkwpbk4ztesjx7v16js0eqjp.jpg",
+                "sequence": 1,
+                "createdAt": "2022-12-10T09:18:29.307068",
+                "modifiedAt": "2022-12-10T09:18:29.307068",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY"
+            }
+        ],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022121000074506,
+                "contents": "우와아앙님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다♥\n맛있게 잘 드셨다니 진심으로 기쁩니다ㅎㅎ\n앞으로도 빠른 조리, 빠른 배달을 원칙으로 고객님께 신선하고 더 맛있는 제품을 제공해드리기 위해 노력하는 에그드랍 강남본점이 되겠습니다.\n리뷰이벤트로 에이드도 무료로 증정해드리고 있으니\n다음엔 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다♡",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "1개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "출근하면서 픽업해와서 먹었는데 직원분들 정말 친절하시고 프렌치토스트 생각나서 시켰는데 너무 맛있네요:)\n든든하게 잘 먹었습니다~",
+        "memberNo": 190401083757,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "우와아앙",
+        "deliveryReviews": null,
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022120400572011,
+        "menus": [
+            {
+                "id": 2022120400964879,
+                "name": "아메리칸 햄 치즈 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022120400964878,
+                "name": "아메리카노",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "NONE",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022120400090202,
+                "contents": "대마이님, 에그드랍 강남본점입니다. 소중한 리뷰 별5개 너무너무 감사합니다. 먼저 차가워진 음식을 제공드린점 너무너무 죄송합니다. 항상 빠른조리, 빠른 배달을 원칙으로 하고 있으나 점점 추워지는 날씨로 샌드위치가 금방 식는 경우가 발생하고 있습니다. 이부분 인지하고 배달라이더분들과 상의하여 항상 따뜻한 상태 유지하여 고객님께 배달 될 수 있도록 더욱 노력하겠습니다.\n다음에는 리뷰에이드와 함께 에그드랍을 찾아주세요! 추운날 감기조심하세요! 감사합니다!",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "2개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "차디찬 에그드랍\n맛은잇음",
+        "memberNo": 180908014533,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "대마이",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022122900049714,
+        "menus": [
+            {
+                "id": 2022122900089213,
+                "name": "베이컨 더블 치즈 세트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022122900009737,
+                "contents": "김마타님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n추운날에도 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다.\n앞으로도 빠른 조리, 빠른 배달을 원칙으로 고객님께 신선하고 더 맛있는 제품을 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "1개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "쪼르륵 흐르는 계란 훔쳐가면서 먹는 맛이 일품입니다",
+        "memberNo": 190430027884,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "1개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "김마타",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2023020700191691,
+        "menus": [
+            {
+                "id": 2023020700342685,
+                "name": "햄 앤 치즈 프렌치 토스트 세트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2023020700342686,
+                "name": "닥터페퍼",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2023020700342687,
+                "name": "코카콜라 제로",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": null,
+        "contents": "진짜 존맛탱❤️ 너무 맛잇어요\n주신 오렌지 에이드도 잘마셨습니다\n아침메뉴로 너무 대박이에요",
+        "memberNo": 171118004983,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "이번 주",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "hijess25",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": true,
+        "writableCommentType": "NONE"
+    },
+    {
+        "id": 2023020300401937,
+        "menus": [
+            {
+                "id": 2023020300695666,
+                "name": "갈릭 베이컨 치즈 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [
+            {
+                "id": 2023020300313044,
+                "imageUrl": "https://bmreview.cdn.baemin.com/bmreview-qh2e/i/2023/2/3/01grbstq94b0w5z31zjjshz0e3.jpg",
+                "sequence": 1,
+                "createdAt": "2023-02-03T23:10:34.492661",
+                "modifiedAt": "2023-02-03T23:10:34.492661",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY"
+            }
+        ],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2023020300153217,
+                "contents": "쩡미쮸우우님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": true,
+                "createdDate": "이번 주",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "쥐짜존맛탱 에그드랍 못챔쥐",
+        "memberNo": 160115003373,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "지난 주",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "쩡미쮸우우",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": true,
+        "writableCommentType": "NONE"
+    },
+    {
+        "id": 2022120300063227,
+        "menus": [
+            {
+                "id": 2022120300087989,
+                "name": "미스터에그 세트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022120300087990,
+                "name": "아메리칸 햄 치즈 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [
+            {
+                "id": 2022120300050447,
+                "imageUrl": "https://bmreview.cdn.baemin.com/bmreview-qh2e/i/2022/12/3/01gkakkhat47cmmh10rdej1k6p.jpg",
+                "sequence": 1,
+                "createdAt": "2022-12-03T08:44:04.090667",
+                "modifiedAt": "2022-12-03T08:44:04.090667",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY"
+            }
+        ],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022120300003333,
+                "contents": "nyamnyam님, 에그드랍 강남본점입니다. 소중한 리뷰 별5개 너무너무 감사합니다. 주말마다 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다. 빠른 조리, 빠른 배달을 원칙으로 고객님께 신선하고 더 맛있는 에그드랍을 제공드리겠습니다. 다음에는 리뷰에이드와 함께 에그드랍을 찾아주세요 ! 감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "2개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "주말아침은 언제나 에그드랍!!! 다른데보다 스크램블도 많고 신선해요!!! 정말 감사히 잘먹었습니다!!!",
+        "memberNo": 210428328824,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "nyamnyam",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022121000061300,
+        "menus": [
+            {
+                "id": 2022121000097380,
+                "name": "리얼 치킨 콥 샐러드",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "NONE",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022121000097381,
+                "name": "클럽샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "NONE",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022121000097382,
+                "name": "햄 앤 치즈 길거리 토스트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "NONE",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022121000074516,
+                "contents": "형님님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다♥\n맛있게 잘 드셨다니 진심으로 기쁩니다ㅎㅎ\n앞으로도 빠른 조리, 빠른 배달을 원칙으로 고객님께 신선하고 더 맛있는 제품을 제공해드리기 위해 노력하는 에그드랍 강남본점이 되겠습니다.\n리뷰이벤트로 에이드도 무료로 증정해드리고 있으니\n다음엔 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다♡",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "1개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "주1회 이상은 먹게되는 저의 최애 가게중 하나네요~^^ \n토스트는 맛있고  샐러드는 건강하게 맛있고...너무 좋아용❤️",
+        "memberNo": 191118006292,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "형님",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2022112100039709,
+        "menus": [
+            {
+                "id": 2022112100065309,
+                "name": "갈릭 베이컨 치즈 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "NONE",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022112100065310,
+                "name": "데리야끼 바베큐 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "NONE",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022112100071398,
+                "contents": "부산사나이님, 에그드랍 강남본점입니다. 소중한 별5개 너무너무 감사합니다. 고객님을 만족시키기 위해 항상 빠른조리, 빠른 배송으로 맛있고 따뜻하게 준비하고 있습니다! 다음에는 배달에서도 별5개 받을 수 있도록 노력하겠습니다. 감사합니다!",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "2개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "존맛탱입니다",
+        "memberNo": 190302010629,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "2개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "부산사나이",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    },
+    {
+        "id": 2023020600145860,
+        "menus": [
+            {
+                "id": 2023020600265403,
+                "name": "햄 앤 치즈 길거리 토스트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2023020600265404,
+                "name": "아보 베이컨 길거리 토스트",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [
+            {
+                "id": 2023020600113332,
+                "imageUrl": "https://bmreview.cdn.baemin.com/bmreview-qh2e/i/2023/2/6/01grjkdyhtbvmz5rwj1s21c8n0.jpg",
+                "sequence": 1,
+                "createdAt": "2023-02-06T14:33:25.577617",
+                "modifiedAt": "2023-02-06T14:33:25.577617",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY"
+            }
+        ],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2023020600013656,
+                "contents": "춤추는에어프라이기님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에도 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": true,
+                "createdDate": "이번 주",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "제가 늦게가서 식었는데도 맛있네요\n에이드도 감사했어요~\n잘먹었습니다",
+        "memberNo": 151206004713,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "이번 주",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "춤추는에어프라이기",
+        "deliveryReviews": null,
+        "menuDisplayType": "ALL",
+        "writableComment": true,
+        "writableCommentType": "NONE"
+    },
+    {
+        "id": 2022122400333963,
+        "menus": [
+            {
+                "id": 2022122400588706,
+                "name": "베이컨 더블 치즈 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022122400588707,
+                "name": "아보홀릭 샌드위치",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "GOOD",
+                "menuDisplayType": "ALL"
+            },
+            {
+                "id": 2022122400588708,
+                "name": "해쉬브라운",
+                "contents": "",
+                "createdAt": null,
+                "modifiedAt": null,
+                "recommendation": "NONE",
+                "menuDisplayType": "ALL"
+            }
+        ],
+        "coupon": null,
+        "images": [
+            {
+                "id": 2022122400247855,
+                "imageUrl": "https://bmreview.cdn.baemin.com/bmreview-qh2e/i/2022/12/24/01gn1ww3fjavyz7symnmjgdnw5.jpg",
+                "sequence": 1,
+                "createdAt": "2022-12-24T20:04:15.755142",
+                "modifiedAt": "2022-12-24T20:04:15.755142",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY"
+            }
+        ],
+        "rating": 5,
+        "comments": [
+            {
+                "id": 2022122400137229,
+                "contents": "완정죵님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n맛있게 드셨다니 저희도 너무너무 기쁩니다!\n고객님께서 맛있게 드실 수 있도록 샌드위치와 샐러드 모두 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다.\n앞으로도 빠른 조리, 빠른 배달을 원칙으로 고객님께 신선하고 더 맛있는 제품을 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "blockType": "NONE",
+                "managerNo": 210809000484,
+                "modifiable": false,
+                "createdDate": "1개월 전",
+                "displayType": "CEO",
+                "blockMessage": "",
+                "displayStatus": "DISPLAY",
+                "managerNickname": "사장님"
+            }
+        ],
+        "contents": "점심으로 맛있게 잘먹었습니다",
+        "memberNo": 180211015417,
+        "blockType": "NONE",
+        "office_sno": 401,
+        "createdDate": "1개월 전",
+        "displayType": "ALL",
+        "blockMessage": "",
+        "displayStatus": "DISPLAY",
+        "memberNickname": "완정죵",
+        "deliveryReviews": {
+            "contents": [],
+            "recommendation": "GOOD"
+        },
+        "menuDisplayType": "ALL",
+        "writableComment": false,
+        "writableCommentType": "EXPIRED_PERIOD"
+    }
+]

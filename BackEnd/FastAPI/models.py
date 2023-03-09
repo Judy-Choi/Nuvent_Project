@@ -10,3 +10,9 @@ class reviews(Base):
     rating = Column(Integer)
     content = Column(String)
     time = Column(DateTime)
+    
+class keywords(Base):
+    __tablename__ = "keywords"
+    id = Column(Integer, primary_key=True, index=True)
+    review_id = Column(Integer)
+    keyword = Column(String)

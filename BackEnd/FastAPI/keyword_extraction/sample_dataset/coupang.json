@@ -1,0 +1,895 @@
+[
+    {
+        "tags": [],
+        "images": [
+            "https://t3a.coupangcdn.com/image/eats_review_api/d52f/51423c82053ff0b4c6fe3da706acc5ab59ff4a1e5e3156b3e4e49b9b081b.jpg"
+        ],
+        "rating": 5,
+        "comment": "혼자서 아이랑 오늘 하루를 보내야 해서~ 아침에 일어나서 후다닥 토스트 주문했네요^^ 건강한 계란 듬뿍 들어간 일반 토스트도 좋지만 고기 챙겨 먹이고싶은 엄마에겐 불고기토스트가 얼마나 반가운지요? 새로나온 100% 착즙주스 덕분에 아이도 건강하게 잘 마실 수 있겠어요!! 많이 파세요~~^^",
+        "orderId": 544345460836405248,
+        "replies": [
+            {
+                "content": "김**님, 안녕하세요 에그드랍 강남본점입니다. 고객님의 만족을 위해 에그드랍 전 인원 노력하고 있습니다! 아이들도 안심하고 맛있게 먹을 수 있도록 맵지않고 맛있게! 그리고 신선한 재료로 항상 준비하고 있습니다! 절대 고객님께 실망시키지 않는 에그드랍 강남본점이 되겠습니다. 다음에는 리뷰에이드와 함께 에그드랍 강남본점을 찾아주세요! 감사합니다.",
+                "createdAt": "2022-12-13T10:03:00",
+                "respondentId": 41658,
+                "orderReviewId": 46963120,
+                "orderReviewReplyId": 3625075,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "115547836",
+        "createdAt": "2022-12-11T10:56:36.164",
+        "orderInfo": [
+            {
+                "dishId": 44206087,
+                "dishName": "치즈 불고기 길거리 토스트",
+                "createdAt": "2022-12-11T10:11:58"
+            },
+            {
+                "dishId": 44206083,
+                "dishName": "리얼 아보카도 콥 샐러드",
+                "createdAt": "2022-12-11T10:11:58"
+            },
+            {
+                "dishId": 44206098,
+                "dishName": "아메리칸 햄 치즈 세트",
+                "createdAt": "2022-12-11T10:11:58"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-12-11T10:11:58",
+        "modifiedAt": "2022-12-11T10:56:36.164",
+        "office_sno": 401,
+        "orderCount": 1,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "12P000",
+        "customerName": "김**",
+        "orderReviewId": 46963120
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t3c.coupangcdn.com/image/eats_review_api/6af7/f36326368bdfb7756c5dfb1ee784bce45c7a2f70a1e114f5b0950d699f29.jpg"
+        ],
+        "rating": 5,
+        "comment": "헤쉬브라운 추가해서 먹으면 더 맛있어요! ",
+        "orderId": 551644608161910784,
+        "replies": [
+            {
+                "content": "현**님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2022년 마지막날에 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다.\n앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "createdAt": "2023-01-02T16:42:57",
+                "respondentId": 41658,
+                "orderReviewId": 47557490,
+                "orderReviewReplyId": 3760592,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "36060036",
+        "createdAt": "2022-12-31T14:07:17.967",
+        "orderInfo": [
+            {
+                "dishId": 44206062,
+                "dishName": "아보홀릭 샌드위치",
+                "createdAt": "2022-12-31T13:36:10"
+            },
+            {
+                "dishId": 44206058,
+                "dishName": "베이컨 더블 치즈 샌드위치",
+                "createdAt": "2022-12-31T13:36:10"
+            },
+            {
+                "dishId": 44206089,
+                "dishName": "해쉬 브라운",
+                "createdAt": "2022-12-31T13:36:10"
+            },
+            {
+                "dishId": 44206069,
+                "dishName": "밀크초콜릿",
+                "createdAt": "2022-12-31T13:36:10"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-12-31T13:36:10",
+        "modifiedAt": "2022-12-31T14:07:17.967",
+        "office_sno": 401,
+        "orderCount": 3,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "1U1BR0",
+        "customerName": "현**",
+        "orderReviewId": 47557490
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t5c.coupangcdn.com/image/eats_review_api/3e4b/7b7cc14e4b74bdcd5c757ec0056788eda0a15011a4ed73e03369988247bf.jpg"
+        ],
+        "rating": 5,
+        "comment": "항상 최곱니다. 새롭게 치즈불고기길거리토스트 시켰는데 이것도 맛있네요. 계란은 항상많네요 감사합니다. ",
+        "orderId": 562062062595878912,
+        "replies": [
+            {
+                "content": "김**님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "createdAt": "2023-01-29T08:26:34",
+                "respondentId": 41658,
+                "orderReviewId": 48448994,
+                "orderReviewReplyId": 3936955,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "147406875",
+        "createdAt": "2023-01-29T07:52:53.837",
+        "orderInfo": [
+            {
+                "dishId": 47692031,
+                "dishName": "치즈 불고기 길거리 토스트",
+                "createdAt": "2023-01-29T07:31:25"
+            },
+            {
+                "dishId": 47692001,
+                "dishName": "아메리칸 햄 치즈 샌드위치",
+                "createdAt": "2023-01-29T07:31:25"
+            },
+            {
+                "dishId": 47692000,
+                "dishName": "미스터 에그 샌드위치",
+                "createdAt": "2023-01-29T07:31:25"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2023-01-29T07:31:25",
+        "modifiedAt": "2023-01-29T07:52:53.837",
+        "office_sno": 401,
+        "orderCount": 4,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "2UDYR0",
+        "customerName": "김**",
+        "orderReviewId": 48448994
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t4c.coupangcdn.com/image/eats_review_api/7c44/bbd1192ea094981b257367c5f70d6149a5bd8d97084555057e94c9a9895f.jpg"
+        ],
+        "rating": 5,
+        "comment": "항상 맛있어요! 감사합니다",
+        "orderId": 556623629119397888,
+        "replies": [
+            {
+                "content": "김**님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "createdAt": "2023-01-18T08:36:47",
+                "respondentId": 41658,
+                "orderReviewId": 47997471,
+                "orderReviewReplyId": 3867151,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "115853139",
+        "createdAt": "2023-01-14T09:33:29.922",
+        "orderInfo": [
+            {
+                "dishId": 44206057,
+                "dishName": "아메리칸 햄 치즈 샌드위치",
+                "createdAt": "2023-01-14T07:21:01"
+            },
+            {
+                "dishId": 44206058,
+                "dishName": "베이컨 더블 치즈 샌드위치",
+                "createdAt": "2023-01-14T07:21:01"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2023-01-14T07:21:01",
+        "modifiedAt": "2023-01-14T09:33:29.922",
+        "office_sno": 401,
+        "orderCount": 3,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "0JFY80",
+        "customerName": "김**",
+        "orderReviewId": 47997471
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t4c.coupangcdn.com/image/eats_review_api/0abc/d77c412b076afc07a2abb450e95f4a83a892400265a02ee9c248e072749d.jpg",
+            "https://t3a.coupangcdn.com/image/eats_review_api/acde/34a2857b4377a5a93cf30495d67f77b45965423fa2eca01935bca9321e69.jpg",
+            "https://t5c.coupangcdn.com/image/eats_review_api/4e45/5da2d47a5db85975fffbad804a683dea9b4f54fbc5d1ca18a714e25fc43e.jpg"
+        ],
+        "rating": 5,
+        "comment": "항상 맛있고 여기는 특별히 더 신선해요!!! 포장도 깔끔!!!!\n에그양도 많은거 같구요! 클럽샌드위치 존맛!!!!\n이른 아침부터 감사합니다!",
+        "orderId": 551560447237558272,
+        "replies": [
+            {
+                "content": "김**님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2022년 마지막날에 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다.\n앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "createdAt": "2022-12-31T09:18:30",
+                "respondentId": 41658,
+                "orderReviewId": 47549693,
+                "orderReviewReplyId": 3744796,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "147406875",
+        "createdAt": "2022-12-31T08:28:08.763",
+        "orderInfo": [
+            {
+                "dishId": 44206056,
+                "dishName": "미스터 에그 샌드위치",
+                "createdAt": "2022-12-31T08:01:45"
+            },
+            {
+                "dishId": 44206057,
+                "dishName": "아메리칸 햄 치즈 샌드위치",
+                "createdAt": "2022-12-31T08:01:45"
+            },
+            {
+                "dishId": 44206084,
+                "dishName": "클럽샌드위치",
+                "createdAt": "2022-12-31T08:01:45"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-12-31T08:01:45",
+        "modifiedAt": "2022-12-31T08:28:08.763",
+        "office_sno": 401,
+        "orderCount": 4,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "13T600",
+        "customerName": "김**",
+        "orderReviewId": 47549693
+    },
+    {
+        "tags": [],
+        "images": [],
+        "rating": 5,
+        "comment": "포장도 잘해주시고 처음 주문했는데 맛있어요^^\n겨울이라 따뜻한 샌드위치가 먹고 싶을때 넘 좋네요\n배달도 빨리 해주셔서 감사합니다~",
+        "orderId": 546176856139763712,
+        "replies": [
+            {
+                "content": "김**님, 안녕하세요! 에그드랍 강남본점입니다.\n겨울에도 고객님께 최고의 제품을 제공드리기 위해 빠른 조리, 빠른 배달을 원칙으로 전 직원 노력하고 있습니다! \n어떤 주문건에도 퀄리티 유지하여 고객님께 실망시키지 않는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰에이드와 함께 에그드랍 강남본점을 찾아주세요 ! \n진심으로 감사합니다!!♡",
+                "createdAt": "2022-12-19T09:57:21",
+                "respondentId": 41658,
+                "orderReviewId": 47109103,
+                "orderReviewReplyId": 3661894,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "118351929",
+        "createdAt": "2022-12-16T12:02:40.112",
+        "orderInfo": [
+            {
+                "dishId": 44206100,
+                "dishName": "햄 앤 치즈 프렌치 토스트 세트",
+                "createdAt": "2022-12-16T11:29:17"
+            },
+            {
+                "dishId": 44206107,
+                "dishName": "햄 앤 치즈 길거리 토스트 세트",
+                "createdAt": "2022-12-16T11:29:17"
+            },
+            {
+                "dishId": 44206083,
+                "dishName": "리얼 아보카도 콥 샐러드",
+                "createdAt": "2022-12-16T11:29:17"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-12-16T11:29:17",
+        "modifiedAt": "2022-12-16T12:02:40.112",
+        "office_sno": 401,
+        "orderCount": 1,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "15WFR0",
+        "customerName": "김**",
+        "orderReviewId": 47109103
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t3c.coupangcdn.com/image/eats_review_api/0b2c/15bdcd8ef809f5bd20a01d9171c025bce14b36b6fba33f5b299cadb64b10.jpg",
+            "https://t2a.coupangcdn.com/image/eats_review_api/c84d/0e5f6dd76cab7393bfc9c826772a257c87c0c44b5073cf54f00f9909d3d0.jpg"
+        ],
+        "rating": 5,
+        "comment": "클럽은 처음 시켜봤는데 너무 맛있네요 신선하고. 멀리살지만 항상 강남본점에서 시켜먹습니다! 감사합니다. ",
+        "orderId": 559167022336843776,
+        "replies": [
+            {
+                "content": "김**님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "createdAt": "2023-01-29T08:25:44",
+                "respondentId": 41658,
+                "orderReviewId": 48203640,
+                "orderReviewReplyId": 3936947,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "147406875",
+        "createdAt": "2023-01-21T08:28:00.022",
+        "orderInfo": [
+            {
+                "dishId": 44206084,
+                "dishName": "클럽샌드위치",
+                "createdAt": "2023-01-21T07:47:34"
+            },
+            {
+                "dishId": 44206057,
+                "dishName": "아메리칸 햄 치즈 샌드위치",
+                "createdAt": "2023-01-21T07:47:34"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2023-01-21T07:47:34",
+        "modifiedAt": "2023-01-21T08:28:00.022",
+        "office_sno": 401,
+        "orderCount": 4,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "134C80",
+        "customerName": "김**",
+        "orderReviewId": 48203640
+    },
+    {
+        "tags": [],
+        "images": [],
+        "rating": 3,
+        "comment": "추가로 주문한 커피 두잔이 안왔구요\n토스트 먹다가 계란껍질 두 번이나 씹었어요\n해시브라운은 맛있네요",
+        "orderId": 550866546977669120,
+        "replies": [
+            {
+                "content": "이**님, 안녕하세요 에그드랍 강남본점입니다.\n먼저 소중한 한끼식사를 방해드린점 너무너무 죄송합니다.\n이제부터 더욱 신경쓰고 확인 하겠습니다. \n먼저 계란껍질나온 햄앤치즈길거리토스트세트 1세트 대해서는 쿠팡이츠를 통해 환불해드렸습니다.\n다음 주문 시 요청사항에 아메리카노2잔 누락이라고 적어주시면 저희 맛있는 에이드를 서비스로 보내드리겠습니다.\n다시 한번 믿어주시고 꼭 찾아주시면 감사하겠습니다.\n다시 한번 짐심으로 죄송합니다.",
+                "createdAt": "2022-12-29T15:01:56",
+                "respondentId": 41658,
+                "orderReviewId": 47493624,
+                "orderReviewReplyId": 3733377,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "14092161",
+        "createdAt": "2022-12-29T12:08:27.09",
+        "orderInfo": [
+            {
+                "dishId": 44206107,
+                "dishName": "햄 앤 치즈 길거리 토스트 세트",
+                "createdAt": "2022-12-29T10:04:26"
+            },
+            {
+                "dishId": 44206107,
+                "dishName": "햄 앤 치즈 길거리 토스트 세트",
+                "createdAt": "2022-12-29T10:04:26"
+            },
+            {
+                "dishId": 44206064,
+                "dishName": "아메리카노",
+                "createdAt": "2022-12-29T10:04:26"
+            },
+            {
+                "dishId": 44206113,
+                "dishName": "오렌지 썬라이즈",
+                "createdAt": "2022-12-29T10:04:26"
+            },
+            {
+                "dishId": 44206101,
+                "dishName": "갈릭 베이컨 치즈 세트",
+                "createdAt": "2022-12-29T10:04:26"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-12-29T10:04:26",
+        "modifiedAt": "2022-12-29T12:08:27.09",
+        "office_sno": 401,
+        "orderCount": 1,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "2A28R0",
+        "customerName": "이**",
+        "orderReviewId": 47493624
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t1c.coupangcdn.com/image/eats_review_api/a489/8a56314c0d38a067b5fd07eb639c90ce9cec360b9a64aec7321291df5d3b.jpg"
+        ],
+        "rating": 5,
+        "comment": "월욜아침마다 부서회의진행하는데\n젤 인기많은 에그드랍!\n시간도 잘맞춰주시고 언제나 맛있습니다!",
+        "orderId": 534520406690770944,
+        "replies": [
+            {
+                "content": "김**님, 에그드랍 강남본점입니다. 항상 월요일마다 에그드랍을 찾아주셔서 너무너무 감사합니다. 부서회의때 모든 고객님께서 맛있게 드실 수 있도록 빠른 조리, 빠른 배송으로 목표로 전 직원 노력하고 있습니다! 다음에도 리뷰에이드와 함께 에그드랍을 찾아주세요! 감사합니다 ! ",
+                "createdAt": "2022-11-14T13:57:42",
+                "respondentId": 41658,
+                "orderReviewId": 46140613,
+                "orderReviewReplyId": 3429274,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "942753",
+        "createdAt": "2022-11-14T08:46:13.975",
+        "orderInfo": [
+            {
+                "dishId": 44206058,
+                "dishName": "베이컨 더블 치즈 샌드위치",
+                "createdAt": "2022-11-14T07:30:42"
+            },
+            {
+                "dishId": 44206061,
+                "dishName": "햄 앤 치즈 프렌치토스트",
+                "createdAt": "2022-11-14T07:30:42"
+            },
+            {
+                "dishId": 44206063,
+                "dishName": "베이컨 딥 치즈 번",
+                "createdAt": "2022-11-14T07:30:42"
+            },
+            {
+                "dishId": 44206083,
+                "dishName": "리얼 아보카도 콥 샐러드",
+                "createdAt": "2022-11-14T07:30:42"
+            },
+            {
+                "dishId": 44206066,
+                "dishName": "카페라떼",
+                "createdAt": "2022-11-14T07:30:42"
+            },
+            {
+                "dishId": 44206064,
+                "dishName": "아메리카노",
+                "createdAt": "2022-11-14T07:30:42"
+            },
+            {
+                "dishId": 44206113,
+                "dishName": "오렌지 썬라이즈",
+                "createdAt": "2022-11-14T07:30:42"
+            },
+            {
+                "dishId": 44206064,
+                "dishName": "아메리카노",
+                "createdAt": "2022-11-14T07:30:42"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-11-14T07:30:42",
+        "modifiedAt": "2022-11-14T08:46:13.975",
+        "office_sno": 401,
+        "orderCount": 10,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "2NJ3G0",
+        "customerName": "김**",
+        "orderReviewId": 46140613
+    },
+    {
+        "tags": [],
+        "images": [],
+        "rating": 5,
+        "comment": "여기서만 시켜먹어요^^",
+        "orderId": 536354353745756160,
+        "replies": [
+            {
+                "content": "오**님, 에그드랍 강남본점입니다. 항상 에그드랍 강남본점을 이용해주셔서 너무너무 감사합니다. 고객님께서 맛있게 드실 수 있도록 빠른 조리, 빠른 배송으로 전 직원 노력하고 있습니다. 다음에도 리뷰에이드와 함께 에그드랍을 즐겨주세요! 감사합니다!",
+                "createdAt": "2022-11-19T09:58:06",
+                "respondentId": 41658,
+                "orderReviewId": 46279680,
+                "orderReviewReplyId": 3462040,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "114865476",
+        "createdAt": "2022-11-19T09:25:59.469",
+        "orderInfo": [
+            {
+                "dishId": 44206060,
+                "dishName": "갈릭 베이컨 치즈 샌드위치",
+                "createdAt": "2022-11-19T08:58:09"
+            },
+            {
+                "dishId": 44206059,
+                "dishName": "데리야끼 바베큐 샌드위치",
+                "createdAt": "2022-11-19T08:58:09"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-11-19T08:58:09",
+        "modifiedAt": "2022-11-19T09:25:59.469",
+        "office_sno": 401,
+        "orderCount": 2,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "1BLBR0",
+        "customerName": "오**",
+        "orderReviewId": 46279680
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t1c.coupangcdn.com/image/eats_review_api/0221/1b007778fb9e2323b978aa87f5658b3079d0d43df0a591353fb9facacc89.jpg"
+        ],
+        "rating": 5,
+        "comment": "언제 먹어도 맛있는 에그드랍~~~",
+        "orderId": 538936140288233472,
+        "replies": [
+            {
+                "content": "김**님, 에그드랍 강남본점입니다. 소중한 리뷰 별5개 너무너무 감사합니다. 항상 고객님의 소리를 듣고 더 좋은 모습 보여드릴 수 있도록 전 인원 노력하고 있습니다! 언제나 고객님께서 맛있게 드실 수 있도록! 빠른 조리, 빠른 배달을 원칙으로 고객님께 신선하고 더 맛있는 에그드랍을 제공드리겠습니다.  다음에는 리뷰에이드와 함께 에그드랍을 찾아주세요! 감사합니다!",
+                "createdAt": "2022-11-30T11:08:33",
+                "respondentId": 41658,
+                "orderReviewId": 46501461,
+                "orderReviewReplyId": 3536165,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "117832868",
+        "createdAt": "2022-11-26T13:08:25.416",
+        "orderInfo": [
+            {
+                "dishId": 44206060,
+                "dishName": "갈릭 베이컨 치즈 샌드위치",
+                "createdAt": "2022-11-26T11:57:15"
+            },
+            {
+                "dishId": 44206086,
+                "dishName": "햄 앤 치즈 길거리 토스트",
+                "createdAt": "2022-11-26T11:57:15"
+            },
+            {
+                "dishId": 44206080,
+                "dishName": "반했드랍 반숙란 (2개입)",
+                "createdAt": "2022-11-26T11:57:15"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-11-26T11:57:15",
+        "modifiedAt": "2022-11-26T13:08:25.416",
+        "office_sno": 401,
+        "orderCount": 1,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "2L4MG0",
+        "customerName": "김**",
+        "orderReviewId": 46501461
+    },
+    {
+        "tags": [],
+        "images": [],
+        "rating": 3,
+        "comment": "아보카도가 딱딱했어용ㅜ ㅜ",
+        "orderId": 565764017683968000,
+        "replies": [],
+        "storeId": 134919,
+        "memberId": "116356978",
+        "createdAt": "2023-02-08T13:28:42.102",
+        "orderInfo": [
+            {
+                "dishId": 47692047,
+                "dishName": "아보홀릭 세트",
+                "createdAt": "2023-02-08T12:41:40"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2023-02-08T12:41:40",
+        "modifiedAt": "2023-02-08T13:28:42.102",
+        "office_sno": 401,
+        "orderCount": 1,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "2G2G00",
+        "customerName": "조**",
+        "orderReviewId": 48762457
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t2a.coupangcdn.com/image/eats_review_api/ffc6/b1e6925ab6093d3c68565320e7e0c20d746a98c7f0d1bc2c9b93b8e75f17.jpg"
+        ],
+        "rating": 5,
+        "comment": "배달도 빠르고 매장에서 먹는거랑 똑같은 퀄리티예요\n맛있게 잘 먹었습니다!!",
+        "orderId": 546476860255514624,
+        "replies": [
+            {
+                "content": "김**님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n신선한재료, 청결한 주방상태, 깔끔한 조리과정으로 언제 어디서나 고객님께 최고의 제품을 제공해 드리기 위해 전 직원 노력하고 있습니다.\n현재 에이드 무료제공 리뷰이벤트도 진행중이니 다음 주문 시 꼭꼭 요청사항에 리뷰이벤트를 적어주세요! 맛있는 샌드위치와 에이드도 함께 보내드리겠습니다.\n고객님의 소중한 주문을 진심으로 감사드리며 또 뵙는 날까지 기다리겠습니다. 감사합니다!",
+                "createdAt": "2022-12-19T10:00:10",
+                "respondentId": 41658,
+                "orderReviewId": 47138596,
+                "orderReviewReplyId": 3661907,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "115853139",
+        "createdAt": "2022-12-17T10:37:50.424",
+        "orderInfo": [
+            {
+                "dishId": 44206057,
+                "dishName": "아메리칸 햄 치즈 샌드위치",
+                "createdAt": "2022-12-17T07:21:23"
+            },
+            {
+                "dishId": 44206058,
+                "dishName": "베이컨 더블 치즈 샌드위치",
+                "createdAt": "2022-12-17T07:21:23"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-12-17T07:21:23",
+        "modifiedAt": "2022-12-17T10:37:50.424",
+        "office_sno": 401,
+        "orderCount": 3,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "1LX5G0",
+        "customerName": "김**",
+        "orderReviewId": 47138596
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t4c.coupangcdn.com/image/eats_review_api/d8b7/d37212c8167a9b55393b223e5226ec3c22325cd0821d92e46670cd9423eb.jpg",
+            "https://t1a.coupangcdn.com/image/eats_review_api/bb47/8ebd2603d0342f27f7d626748d5ab26fca19a914c076f8bbbc9d37a695cc.jpg"
+        ],
+        "rating": 5,
+        "comment": "배달도 빠르고 맛있게 잘 먹었습니다.",
+        "orderId": 562088268598870016,
+        "replies": [
+            {
+                "content": "조**님, 안녕하세요! 에그드랍 강남본점입니다. 우선 소중한 리뷰 별5개 정말 감사합니다. 2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다! 고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다. 다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 ! 감사합니다.",
+                "createdAt": "2023-02-06T10:35:20",
+                "respondentId": 41658,
+                "orderReviewId": 48450011,
+                "orderReviewReplyId": 3996206,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "118591501",
+        "createdAt": "2023-01-29T10:14:42.083",
+        "orderInfo": [
+            {
+                "dishId": 47692052,
+                "dishName": "치즈 불고기 길거리 토스트 세트",
+                "createdAt": "2023-01-29T09:15:33"
+            },
+            {
+                "dishId": 47692007,
+                "dishName": "베이컨 딥 치즈 번",
+                "createdAt": "2023-01-29T09:15:33"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2023-01-29T09:15:33",
+        "modifiedAt": "2023-01-29T10:14:42.083",
+        "office_sno": 401,
+        "orderCount": 1,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "2X98R0",
+        "customerName": "조**",
+        "orderReviewId": 48450011
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t3c.coupangcdn.com/image/eats_review_api/2b22/8316aecfd5612190f9b90602800c5ee97878a1ec6ad3f608e3bc3326eddf.jpg"
+        ],
+        "rating": 5,
+        "comment": "믿고 먹는 에그드랍 강남본점\n항상 감사합니다!!!",
+        "orderId": 556989767321919488,
+        "replies": [
+            {
+                "content": "김**님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "createdAt": "2023-01-18T08:36:50",
+                "respondentId": 41658,
+                "orderReviewId": 48030372,
+                "orderReviewReplyId": 3867152,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "147406875",
+        "createdAt": "2023-01-15T07:59:33.161",
+        "orderInfo": [
+            {
+                "dishId": 44206056,
+                "dishName": "미스터 에그 샌드위치",
+                "createdAt": "2023-01-15T07:35:55"
+            },
+            {
+                "dishId": 44206057,
+                "dishName": "아메리칸 햄 치즈 샌드위치",
+                "createdAt": "2023-01-15T07:35:55"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2023-01-15T07:35:55",
+        "modifiedAt": "2023-01-15T07:59:33.161",
+        "office_sno": 401,
+        "orderCount": 4,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "0LVWR0",
+        "customerName": "김**",
+        "orderReviewId": 48030372
+    },
+    {
+        "tags": [],
+        "images": [],
+        "rating": 5,
+        "comment": "매우빠르게 만들어주시고 매우빠르게 배달해주셨어요~~~????? 맛은 늘 ?????",
+        "orderId": 560275623432425472,
+        "replies": [
+            {
+                "content": "김**님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "createdAt": "2023-01-29T08:26:18",
+                "respondentId": 41658,
+                "orderReviewId": 48280861,
+                "orderReviewReplyId": 3936950,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "8283341",
+        "createdAt": "2023-01-24T10:34:17.31",
+        "orderInfo": [
+            {
+                "dishId": 44206060,
+                "dishName": "갈릭 베이컨 치즈 샌드위치",
+                "createdAt": "2023-01-24T09:12:45"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2023-01-24T09:12:45",
+        "modifiedAt": "2023-01-24T10:34:17.31",
+        "office_sno": 401,
+        "orderCount": 1,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "0XWHG0",
+        "customerName": "김**",
+        "orderReviewId": 48280861
+    },
+    {
+        "tags": [],
+        "images": [],
+        "rating": 5,
+        "comment": "맛있어용 ",
+        "orderId": 552112636309811200,
+        "replies": [
+            {
+                "content": "이**님, 안녕하세요! 에그드랍 강남본점입니다. 우선 소중한 리뷰 별5개 정말 감사합니다. 2023년 첫날에 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다! 고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다. 다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 ! 감사합니다",
+                "createdAt": "2023-01-02T16:43:27",
+                "respondentId": 41658,
+                "orderReviewId": 47610659,
+                "orderReviewReplyId": 3760599,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "106888806",
+        "createdAt": "2023-01-01T21:47:40.866",
+        "orderInfo": [
+            {
+                "dishId": 44206101,
+                "dishName": "갈릭 베이컨 치즈 세트",
+                "createdAt": "2023-01-01T20:35:57"
+            },
+            {
+                "dishId": 44206104,
+                "dishName": "베이컨 딥 치즈 번 세트",
+                "createdAt": "2023-01-01T20:35:57"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2023-01-01T20:35:57",
+        "modifiedAt": "2023-01-01T21:47:40.866",
+        "office_sno": 401,
+        "orderCount": 1,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "09BD80",
+        "customerName": "이**",
+        "orderReviewId": 47610659
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t5c.coupangcdn.com/image/eats_review_api/2c41/532c5ead31c0855a0f7a9ce1660e6ba77cc9434512aebc640f925eb51868.jpg"
+        ],
+        "rating": 5,
+        "comment": "뜨거운게 매력인데 식어서 왔어요ㅠ\n데워 먹었는데 맛은 좋아요^^\n연휴 이른 아침 배달 된다는것만 해도 최고",
+        "orderId": 559882064246091776,
+        "replies": [
+            {
+                "content": "하**님, 안녕하세요! 에그드랍 강남본점입니다.\n우선 소중한 리뷰 별5개 정말 감사합니다.\n2023년도 저희 에그드랍 강남본점을 찾아주셔서 너무너무 감사드립니다!\n그리고 음식이 식은점 너무너무 죄송합니다 다음에는 더욱더 주의를 기울이겠습니다.\n고객님께서 맛있게 드실 수 있도록 모든 메뉴 항상 신선한 재료로 직접 조리하여 고객님께 제공드리고 있습니다. 앞으로도 빠른 조리, 빠른 배달을 원칙으로 양과 맛 모두 잡는 에그드랍 강남본점이 되겠습니다.\n다음에는 리뷰이벤트와 함께 에그드랍을 찾아주세요 !\n감사합니다.",
+                "createdAt": "2023-01-29T08:26:13",
+                "respondentId": 41658,
+                "orderReviewId": 48250760,
+                "orderReviewReplyId": 3936948,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "9515802",
+        "createdAt": "2023-01-23T07:38:30.243",
+        "orderInfo": [
+            {
+                "dishId": 44206057,
+                "dishName": "아메리칸 햄 치즈 샌드위치",
+                "createdAt": "2023-01-23T07:08:53"
+            },
+            {
+                "dishId": 44206061,
+                "dishName": "햄 앤 치즈 프렌치토스트",
+                "createdAt": "2023-01-23T07:08:53"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2023-01-23T07:08:53",
+        "modifiedAt": "2023-01-23T07:38:30.243",
+        "office_sno": 401,
+        "orderCount": 1,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "1BXKG0",
+        "customerName": "하**",
+        "orderReviewId": 48250760
+    },
+    {
+        "tags": [],
+        "images": [
+            "https://t1c.coupangcdn.com/image/eats_review_api/53a6/770727a6c66a14982b1d96310989e095445379ca6b14d68025998c18f1b2.jpg"
+        ],
+        "rating": 5,
+        "comment": "넘 맛있게 잘먹었어요~ 감사합니다~^^",
+        "orderId": 538906153229234176,
+        "replies": [
+            {
+                "content": "최**님, 에그드랍 강남본점입니다. 소중한 리뷰 별5개 너무너무 감사합니다. 항상 에그드랍 강남본점을 찾아주셔서 너무너무 감사합니다! 빠른 조리, 빠른 배달을 원칙으로 고객님께 더 맛있는 에그드랍을 보내드리겠습니다! 항상 신선한재료로 맛있게 만들어서 보내드리겠습니다. 다음에도 리뷰에이드와 함께 에그드랍을 찾아주세요 ! 감사합니다.",
+                "createdAt": "2022-11-30T11:10:23",
+                "respondentId": 41658,
+                "orderReviewId": 46542691,
+                "orderReviewReplyId": 3536180,
+                "orderReviewReplyStatusType": "EXPOSE",
+                "orderReviewReplyRespondentType": "STORE"
+            }
+        ],
+        "storeId": 134919,
+        "memberId": "123086934",
+        "createdAt": "2022-11-27T16:05:50.524",
+        "orderInfo": [
+            {
+                "dishId": 44206101,
+                "dishName": "갈릭 베이컨 치즈 세트",
+                "createdAt": "2022-11-26T09:58:06"
+            },
+            {
+                "dishId": 44206059,
+                "dishName": "데리야끼 바베큐 샌드위치",
+                "createdAt": "2022-11-26T09:58:06"
+            },
+            {
+                "dishId": 44206060,
+                "dishName": "갈릭 베이컨 치즈 샌드위치",
+                "createdAt": "2022-11-26T09:58:06"
+            }
+        ],
+        "orderType": "REGULAR",
+        "orderedAt": "2022-11-26T09:58:06",
+        "modifiedAt": "2022-11-27T16:05:50.524",
+        "office_sno": 401,
+        "orderCount": 6,
+        "statusType": "EXPOSE",
+        "abbrOrderId": "0UV500",
+        "customerName": "최**",
+        "orderReviewId": 46542691
+    }
+]
