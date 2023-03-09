@@ -9,6 +9,7 @@ const SelectStore = () => {
   const selectStore = newStore => {
     dispatch(setStore(newStore));
   };
+
   return (
     <div className="z-10">
       <button
@@ -27,11 +28,11 @@ const SelectStore = () => {
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
             d="M19 9l-7 7-7-7"
-          ></path>
+          />
         </svg>
       </button>
       <div

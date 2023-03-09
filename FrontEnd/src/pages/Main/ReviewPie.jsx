@@ -1,20 +1,26 @@
 import React, { useState, useEffect } from 'react';
 import { ResponsivePie } from '@nivo/pie';
 
-const ReviewPie = () => {
+const ReviewPie = ({ data }) => {
   const [pie, setPie] = useState([]);
 
   useEffect(() => {
-    fetch('/data/reviewpie.json')
-      .then(res => res.json())
-      .then(data => {
-        setPie(data);
-      });
-  }, []);
+    if (!data || !data?.platform_count) {
+      return;
+    }
 
-  if (pie.length === 0) {
-    return null;
-  }
+    const chartData = Object.keys(data.platform_count).map(company => {
+      const reviewCounts = data.platform_count[company];
+      return {
+        id: company,
+        value: reviewCounts.reduce((acc, cur) => {
+          const next = acc + cur;
+          return next;
+        }, 0),
+      };
+    });
+    setPie(chartData);
+  }, [data]);
 
   return (
     <div className="w-[20rem] h-[35rem] mt-[-5rem]">
@@ -23,6 +29,7 @@ const ReviewPie = () => {
         margin={{ top: 120, right: 20, bottom: 240, left: 20 }}
         innerRadius={0.65}
         padAngle={2}
+        // id="label"
         activeOuterRadiusOffset={8}
         colors={{ scheme: 'pastel1' }}
         borderColor={{

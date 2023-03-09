@@ -1,12 +1,12 @@
 [
   {
-    "id": "positive",
+    "id": "1",
     "label": "positive",
     "value": 714,
     "color": "#FAB4AE"
   },
   {
-    "id": "negative",
+    "id": "2",
     "label": "negative",
     "value": 68,
     "color": "hsl(298, 70%, 50%)"

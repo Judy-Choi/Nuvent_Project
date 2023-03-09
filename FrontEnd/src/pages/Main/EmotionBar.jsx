@@ -1,25 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import { ResponsiveBar } from '@nivo/bar';
 
-const EmotionBar = () => {
-  const [bar, setBar] = useState([]);
-
-  useEffect(() => {
-    fetch('/data/emotionbar.json')
-      .then(res => res.json())
-      .then(data => {
-        setBar(data);
-      });
-  }, []);
-
-  if (bar.length === 0) {
+const EmotionBar = ({ data }) => {
+  if (!data || data.sentiment_ratings.length === 0) {
     return null;
   }
 
   return (
     <div className="w-[80rem] h-[30rem] ml-5 z-0">
       <ResponsiveBar
-        data={bar}
+        data={data.sentiment_ratings}
         keys={['positive', 'negative']}
         indexBy="platform"
         margin={{ top: 40, right: 30, bottom: 70, left: 50 }}

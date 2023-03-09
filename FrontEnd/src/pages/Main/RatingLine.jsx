@@ -1,16 +1,30 @@
 import React, { useEffect, useState } from 'react';
 import { ResponsiveLine } from '@nivo/line';
 
-const RatingLine = () => {
+const RatingLine = ({ data }) => {
   const [line, setLine] = useState([]);
 
   useEffect(() => {
-    fetch('/data/ratingline.json')
-      .then(res => res.json())
-      .then(data => {
-        setLine(data);
+    if (!data || !data?.platform_count) {
+      return;
+    }
+
+    const chartData = Object.keys(data.platform_count)
+      .reverse()
+      .map(company => {
+        const reviewCounts = data.platform_count[company];
+        return {
+          id: company,
+          data: reviewCounts.map((count, index) => {
+            return {
+              x: `${index + 1}`,
+              y: count,
+            };
+          }),
+        };
       });
-  }, []);
+    setLine(chartData);
+  }, [data]);
 
   if (line.length === 0) {
     return null;
@@ -29,7 +43,33 @@ const RatingLine = () => {
           stacked: true,
           reverse: false,
         }}
-        yFormat=" >-.2f"
+        enableSlices="x"
+        sliceTooltip={({ slice }) => {
+          return (
+            <div
+              style={{
+                background: 'white',
+                padding: '9px 12px',
+                border: '1px solid #ccc',
+              }}
+            >
+              {slice.points.map(point => (
+                <div
+                  key={point.id}
+                  style={{
+                    display: 'flex',
+                    gap: '2px',
+                    color: point.serieColor,
+                    padding: '3px 0',
+                  }}
+                >
+                  <strong>rating: {point.data.xFormatted}점</strong>
+                  <strong>count : {point.data.yFormatted}개</strong>
+                </div>
+              ))}
+            </div>
+          );
+        }}
         axisTop={null}
         axisRight={null}
         axisBottom={{
@@ -72,16 +112,18 @@ const RatingLine = () => {
             itemOpacity: 0.85,
             symbolSize: 20,
             symbolShape: 'square',
+            symbolTextColor: 'white',
             symbolBorderColor: 'rgba(0, 0, 0, .5)',
             effects: [
               {
                 on: 'hover',
                 style: {
-                  itemBackground: 'rgba(0, 0, 0, .03)',
+                  itemTextColor: 'rgba(0, 0, 0, 0.03)',
                   itemOpacity: 1,
                 },
               },
             ],
+            reverse: true,
           },
         ]}
       />

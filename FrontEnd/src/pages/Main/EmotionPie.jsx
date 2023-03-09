@@ -1,16 +1,34 @@
 import React, { useState, useEffect } from 'react';
 import { ResponsivePie } from '@nivo/pie';
 
-const EmotionPie = () => {
+const EmotionPie = ({ data }) => {
   const [pie, setPie] = useState([]);
 
   useEffect(() => {
-    fetch('/data/emotionpie.json')
-      .then(res => res.json())
-      .then(data => {
-        setPie(data);
-      });
-  }, []);
+    if (!data || !data?.sentiment_ratings) {
+      return;
+    }
+
+    const chartData = [
+      { id: '1', label: 'positive', value: 0, color: '#FAB4AE' },
+      {
+        id: '2',
+        label: 'negative',
+        value: 0,
+        color: 'hsl(298, 70%, 50%)',
+      },
+    ];
+
+    chartData[0].value = data.sentiment_ratings.reduce((acc, cur) => {
+      const next = acc + cur.positive;
+      return next;
+    }, 0);
+    chartData[1].value = data.sentiment_ratings.reduce((acc, cur) => {
+      const next = acc + cur.negative;
+      return next;
+    }, 0);
+    setPie(chartData);
+  }, [data]);
 
   if (pie.length === 0) {
     return null;
@@ -40,6 +58,8 @@ const EmotionPie = () => {
           from: 'color',
           modifiers: [['darker', 2]],
         }}
+        id="label"
+        valueFormat="time:%Y/%m/%d"
         legends={[
           {
             anchor: 'bottom',

@@ -1,16 +1,26 @@
 import React, { useEffect, useState } from 'react';
 import { ResponsiveRadar } from '@nivo/radar';
 
-const RatingRadar = () => {
+const RatingRadar = ({ data }) => {
   const [radar, setRadar] = useState([]);
 
   useEffect(() => {
-    fetch('/data/ratingradar.json')
-      .then(res => res.json())
-      .then(data => {
-        setRadar(data);
-      });
-  }, []);
+    if (!data || !data?.platform_count) {
+      return;
+    }
+    const companyNameList = Object.keys(data.platform_count);
+    const chartData = [];
+    for (let i = 0; i < 5; i++) {
+      const ratingData = {
+        rating: i + 1,
+      };
+      for (let companyName of companyNameList) {
+        ratingData[companyName] = data.platform_count[companyName][i];
+      }
+      chartData.push(ratingData);
+    }
+    setRadar(chartData);
+  }, [data]);
 
   if (radar.length === 0) {
     return null;
@@ -19,7 +29,7 @@ const RatingRadar = () => {
     <div className="w-[20rem] h-[35rem]">
       <ResponsiveRadar
         data={radar}
-        keys={['baemin', 'coupangeats', 'nplace', 'yogiyo']}
+        keys={['baemin', 'yogiyo', 'coupang']}
         indexBy="rating"
         valueFormat=" >-.2f"
         margin={{ top: 120, right: 20, bottom: 240, left: 20 }}

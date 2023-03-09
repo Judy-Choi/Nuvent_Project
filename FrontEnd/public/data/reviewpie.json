@@ -1,26 +1,17 @@
 [
   {
-    "id": "baemin",
+    "id": "1",
     "label": "baemin",
-    "value": 128,
-    "color": "#FAB4AE"
+    "value": 128
   },
   {
-    "id": "coupangeats",
-    "label": "coupangeats",
-    "value": 550,
-    "color": "hsl(298, 70%, 50%)"
+    "id": "2",
+    "label": "coupang",
+    "value": 550
   },
   {
-    "id": "nplace",
-    "label": "nplace",
-    "value": 513,
-    "color": "hsl(247, 70%, 50%)"
-  },
-  {
-    "id": "yogiyo",
+    "id": "3",
     "label": "yogiyo",
-    "value": 333,
-    "color": "hsl(287, 70%, 50%)"
+    "value": 333
   }
 ]

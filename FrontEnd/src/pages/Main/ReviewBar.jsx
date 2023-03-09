@@ -1,16 +1,30 @@
 import React, { useState, useEffect } from 'react';
 import { ResponsiveBar } from '@nivo/bar';
 
-const ReviewBar = () => {
+const ReviewBar = ({ data }) => {
   const [bar, setBar] = useState([]);
 
   useEffect(() => {
-    fetch('/data/reviewbar.json')
-      .then(res => res.json())
-      .then(data => {
-        setBar(data);
-      });
-  }, []);
+    if (!data || !data?.period_count || data?.period_count.length === 0) {
+      return;
+    }
+
+    const chartData = data.period_count.map((data, index) => {
+      const platform =
+        'date' in data
+          ? data.date
+          : 'week' in data
+          ? data.week
+          : 'month' in data
+          ? data.month
+          : '';
+      return {
+        ...data,
+        platform,
+      };
+    });
+    setBar(chartData);
+  }, [data]);
 
   if (bar.length === 0) {
     return null;
@@ -20,7 +34,7 @@ const ReviewBar = () => {
     <div className="w-[80rem] h-[30rem] ml-5 z-0">
       <ResponsiveBar
         data={bar}
-        keys={['baemin', 'coupangeats', 'nplace', 'yogiyo']}
+        keys={['baemin', 'yogiyo', 'coupang']}
         indexBy="platform"
         margin={{ top: 40, right: 30, bottom: 70, left: 50 }}
         padding={0.6}
