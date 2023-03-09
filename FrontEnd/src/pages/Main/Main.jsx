@@ -86,7 +86,7 @@ const Main = () => {
   useEffect(() => {
     const fetchData = () =>
       fetch(
-        `http://10.110.130.129/reviews?storeId=0&startDate=20221201&endDate=20221207`
+        `http://10.110.130.129/reviews?storeId=${store}&startDate=${startDate}&endDate=${endDate}`
       )
         .then(res => res)
         .then(data => {
