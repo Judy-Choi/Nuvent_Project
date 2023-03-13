@@ -10,6 +10,10 @@ Run
 ```
 $ uvicorn main:app --reload
 ```
-## Main Page API
+## API
+Main Page
+```
+http://127.0.0.1:8000/reviews?store_id=0&start=20221201&end=20231201
+```
 
-## Keyword Extraction Page API
+Keyword Extraction
